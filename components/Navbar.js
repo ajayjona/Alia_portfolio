@@ -78,12 +78,12 @@ const Navbar = () => {
                             <div className= 'flex justify-center items-center flex-shrink-0 md:block'>
                                 <div className='flex space-x-4'>
                                     <div>
-                                        <a href='https://github.com/prasad-chavan1' target='_blank' rel='noopener noreferrer'>
+                                        <a href='https://github.com/ajayjona' target='_blank' rel='noopener noreferrer'>
                                             <BsGithub className='hidden md:block' size='2rem' />
                                         </a>
                                     </div>
                                     <div>
-                                        <a href='https://www.linkedin.com/in/prasad-chavan2003/'
+                                        <a href='https://www.linkedin.com/in/alia-jonathan-b38186195/'
                                             target='_blank'
                                             rel='noopener noreferrer'
                                         >
@@ -172,13 +172,13 @@ const Navbar = () => {
                                 <div className='space-x-4 pt-20'>
                                     <div className='flex space-x-4'>
                                         <div className='rounded shadow-lg shadow-gray-400 p-3 cursor-pointer'>
-                                            <a href='https://github.com/prasad-chavan1' target='_blank' rel='noopener noreferrer'>
+                                            <a href='https://github.com/ajayjona' target='_blank' rel='noopener noreferrer'>
                                                 <BsGithub size='2rem' />
                                             </a>
                                         </div>
                                         <div className='rounded shadow-lg shadow-gray-400 p-3 cursor-pointer'>
                                             <a
-                                                href='https://www.linkedin.com/in/prasad-chavan2003/'
+                                                href='https://www.linkedin.com/in/alia-jonathan-b38186195/'
                                                 target='_blank'
                                                 rel='noopener noreferrer'
                                             >

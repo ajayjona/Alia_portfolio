@@ -29,7 +29,7 @@ const Home = () => {
                         Software Engineer
                     </h1>
                     <p className='text-sm mt-4 sm:leading-relaxed md:text-xl text-black'>
-                        By night am BatMan <br/> By day am a Software Engineer and computer scientist building practical software solutions and listening to music.
+                        <b>BatMan by night</b> <br/> By day am a Software Engineer and computer scientist building practical software solutions and listening to music.
                     </p>
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/contact'>

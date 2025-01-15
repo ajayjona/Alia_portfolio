@@ -32,7 +32,7 @@ const Contact = () => {
     const submitForm = () => {
         emailjs
             .sendForm(
-                'service_mg6nzzn', 'template_en8166k', form.current
+                'service_16hrcni', 'template_en8166k', form.current
             )
             .then(
                 function (response) {
@@ -63,32 +63,25 @@ const Contact = () => {
                             quickly (within 48 hours). <br />
                             <br />
                             Additional ways to get in touch <br />
-                            LinkedIn:{' '}
-                            <a
-                                className='text-blue-500 hover:underline'
-                                href='https://www.linkedin.com/in/prasad-chavan2003/'
-                                target='_blank'
-                                rel='noopener noreferrer'
-                            >
-                                /in/prasad-chavan2003/
-                            </a>{' '}
+                           
+                            
                             <br />
                             Email:{' '}
                             <a
                                 className='text-blue-500 hover:underline'
-                                href='mailto:askokc4321@gmail.com'
+                                href='mailto:aliajonathan1@gmail.com'
                             >
-                                askokc4321@gmail.com
+                                aliajonathan1@gmail.com
                             </a>
                                     <br />
-                                    Instagram:{' '}
+                                    X:{' '}
                             <a
                                 className='text-blue-500 hover:underline'
-                                href='https://www.instagram.com/pranshufeels_/'
+                                href='https://x.com/AliaJjonathan'
                                 target='_blank'
                                 rel='noopener noreferrer'
                             >
-                                /pranshufeels_/
+                                AliaJjonathan
                             </a>{' '}
                         </p>
                     </div>

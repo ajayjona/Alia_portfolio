@@ -9,7 +9,7 @@ export default function Home({ posts }) {
     return (
         <div className='pt-28 pb-16 md:pl-20 md:pr-20'>
             <Head>
-                <title>Blog | Prasad Chavan</title>
+                <title>Blog | Alia Jonathan</title>
             </Head>
             <h1 className='font-bold text-2xl text-center pb-8'>Favourite Stuffs</h1>
             <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 pr-8 pl-8'>
