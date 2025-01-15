@@ -23,13 +23,13 @@ const Home = () => {
             <div className='flex px-4 md:py-32 mx-auto h-screen items-center'>
                 <div className='text-center mx-auto'>
                     <h1 className='text-4xl text-black font-extrabold md:text-6xl'>
-                        Prasad Chavan
+                        Alia Jonathan
                     </h1>
                     <h1 className='text-4xl text-blue-500 font-extrabold md:text-6xl'>
-                        Data Analyst
+                        Software Engineer
                     </h1>
                     <p className='text-sm mt-4 sm:leading-relaxed md:text-xl text-black'>
-                        Market Research Analyst, Data Science, Machine Learning Enthusiast
+                        By night am BatMan <br/> By day am a Software Engineer and computer scientist building practical software solutions and listening to music.
                     </p>
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/contact'>

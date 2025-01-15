@@ -21,7 +21,7 @@ const Navbar = () => {
                                 <h1 className=' font-bold text-xl cursor-pointer'>
                                     <Link href='/'>
                                         <a className='text-2xl pl-8 sm:pl-0'>
-                                            Prasad<span className='text-blue-500'>Chavan</span>
+                                            Alia<span className='text-blue-500'> Jonathan</span>
                                         </a>
                                     </Link>
                                 </h1>
