@@ -30,7 +30,7 @@ const About = () => {
                     }}
                   >
                     <h1 className="text-3xl font-bold sm:text-4xl mb-8">
-                      Hello, I&#39;m <span className="text-blue-500">Prasad</span>
+                      Hello, I&#39;m <span className="text-blue-500">Alia</span>
                     </h1>
                   </motion.div>
                   <motion.div
@@ -54,7 +54,7 @@ const About = () => {
                       I&#39;m a
                       <span className="text-blue-500"> FullStack Developer</span> with a
                       passion for
-                      <span className="text-blue-500"> Cloud Computing</span>.
+                      <span className="text-blue-500"> Artificial Inteligence, Maths and IoT</span>.
                     </h2>
                   </motion.div>
               </div>
@@ -76,24 +76,30 @@ const About = () => {
                 }}
               >
                 <p className="text-left font-normal mb-5 flex-wrap">
-                  I pursuing graduation from SSBT, COET, JALGAON (425001). Most of
-                  my experience is in full stack web development and problem
-                  solving. Check out some of my work
-                  <a
-                    href="https://github.com/prasad-chavan1"
+                I have been messing with computers for the better part of my life, perks of being a genZ I guess, in the last year I sacrificed many nights and  learnt how to build software and also work with teams to build software. So this days all I do is sit down and   <a
+                    href="https://github.com/ajayjona"
                     className="underline text-blue-500"
                   >
               
-                    here
-                  </a>
+                    CODE
+                  </a> away on my laptop , you could call it a nerds dream.
+
+                
                 </p>
                 <p className="text-left font-normal mb-5 flex-wrap"></p>
                 <p className="text-left font-normal mb-5 flex-wrap">
-                  In my free time, I love to learn new technologies and keep
-                  up-to-date with full stack developement. Outside of programming, I
-                  love to read novels and watch animes. I learnt alot things from
-                  anime. My one of the most favourite character is Itachi Uchiha.
+                When not geeking, I love to listen to music, take long walks and hit the gym. If you are already on this section of my corner of the web , I would like to share one of my spotify playlists with you.
+
+                  <a
+                    href="https://open.spotify.com/playlist/0Xs8Q9hQX2ut6OfuG9IGmN?si=7PpVd1kjQZW30aT4rOXyWg&pi=e-9tC9S-VxRCOL"
+                    className="underline text-blue-500"
+                  >
+              
+                    peaceful Nostalgia  
+                  </a>
+                  &nbsp;: this is a smooth blend of 2010s and 2020s RnB and HipHop with a twist to it ,enjoy.
                 </p>
+                
               </motion.div>
           </div>
           <div className="text-bold text-3xl mt-10">
